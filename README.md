@@ -1,5 +1,9 @@
 #Meme Maker
 
+####Background
+* Basic app used as a tutorial in learning about data persistance
+* Starter code for this downloaded from Treehouse.com and included in Initial Commit
+
 ####Basic Features
 
 * Show gallery of images
